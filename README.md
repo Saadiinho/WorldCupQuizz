@@ -34,3 +34,5 @@ Avant de commencer, assurez-vous que vous avez installé les éléments suivants
 
 Il ne vous reste plus qu'à profiter de ce quizz !
 
+
+Voir la [source](https://www.kaggle.com/datasets/abecklas/fifa-world-cup) du dataset
