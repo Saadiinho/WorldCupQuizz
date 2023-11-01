@@ -6,14 +6,14 @@ Ce guide explique comment pouvoir lancer ce quizz sur votre ordinateur
 
 Avant de commencer, assurez-vous que vous avez installé les éléments suivants sur votre système :
 
-- [Python](https://www.python.org/downloads/): Le langage de programmation utilisé par Jupyter.
+- [Python](https://www.python.org/downloads/): Le langage de programmation utilisé par ce quizz.
 
 ## Instructions
 
 1. Clonez le référentiel :
 
    ```bash
-   git clone https://github.com/Saadiinho/Horror-Movies.git
+   git clone https://github.com/Saadiinho/WorldCupQuizz.git
 
 2. Ouvrez votre terminal ou invite de commande.
   
