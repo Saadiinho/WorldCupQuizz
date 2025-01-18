@@ -1,0 +1,8 @@
+Idée de mise à jouor de la plateforme :
+
+1- Ajout du front-end pour une interface plus conviviale :
+	-> Kivy / Tkinter ou TkinterCustom
+
+2- Ajout de nouvelles questions portant sur les joueurs
+
+3- Mettre l'application sous forme de logiciel pour pouvoir le lancer facilement le logiciel
